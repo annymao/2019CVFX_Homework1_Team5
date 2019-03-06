@@ -2,10 +2,13 @@
 ## Training
 ### 1. apple2orange
 <img src="./Images/training_a2o.png" width="600px" />
+
 ### 2. horse2zebra
 <img src="./Images/training_h2z.png" width="600px" />
+
 ### 3. summer2winter
 <img src="./Images/training_s2w.png" width="600px" />
+
 
 ## Inference Personal Images
 ### Winter2Summer
@@ -16,6 +19,7 @@
 <img src="./Images/summer2winter_2.png" width="600px" />
 <img src="./Images/winter2summer_1.png" width="600px" />
 <img src="./Images/winter2summer_2.png" width="600px" />
+<br>
 由上面的結果可以看出來效果還不錯，已經有一點秋冬的感覺
 接下來為 train 完 200 個 epoch 的結果 <br>
 <img src="./Images/summer2winter_final1.png" width="600px" />
@@ -25,4 +29,5 @@
 <img src="./Images/winter2summer_final1.png" width="600px" />
 <img src="./Images/winter2summer_final2.png" width="600px" />
 <img src="./Images/winter2summer_final3.png" width="600px" />
+<br>
 最後 train 完的結果我們認為更接近冬天一點，但感覺畫質有變差
