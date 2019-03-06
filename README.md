@@ -17,10 +17,13 @@
 由於 GAN 在訓練時不一定會越 train 越好，有可能是中間的結果是最佳的，<br>
 所以我們在 train 的時候也不定時會 inference 觀察產生的結果
 以下為 train 到 124 個 epoch 的結果 <br>
+
 #### 1. Summer to winter 
 <br>
 <img src="./Images/summer2winter_1.png" width="400px" />
 <img src="./Images/summer2winter_2.png" width="400px" />
+<br>
+
 #### 2. Winter to summer
 <br>
 <img src="./Images/winter2summer_1.png" width="400px" />
@@ -31,12 +34,15 @@
 接下來為 train 完 200 個 epoch 的結果 
 <br>
 <br>
+
 #### 1. Summer to winter 
 <br>
 <img src="./Images/summer2winter_final1.png" width="400px" />
 <img src="./Images/summer2winter_final2.png" width="400px" />
 <img src="./Images/summer2winter_final3.png" width="400px" />
 <img src="./Images/summer2winter_final4.png" width="400px" />
+<br>
+
 #### 2. Winter to summer
 <br>
 <img src="./Images/winter2summer_final1.png" width="400px" />
