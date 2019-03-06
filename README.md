@@ -22,7 +22,6 @@
 
 <img src="./Images/winter2summer_1.png" width="400px" />
 <img src="./Images/winter2summer_2.png" width="400px" />
-<br>
 
 由上面的結果可以看出來效果還不錯，已經有一點秋冬的感覺
 
@@ -38,7 +37,6 @@
 <img src="./Images/winter2summer_final1.png" width="400px" />
 <img src="./Images/winter2summer_final2.png" width="400px" />
 <img src="./Images/winter2summer_final3.png" width="400px" />
-<br>
-<br>
+
 
 最後 train 完的結果我們認為更接近冬天一點，但感覺畫質有變差
