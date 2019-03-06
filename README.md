@@ -19,10 +19,10 @@
 以下為 train 到 124 個 epoch 的結果 <br>
 <img src="./Images/summer2winter_1.png" width="400px" />
 <img src="./Images/summer2winter_2.png" width="400px" />
-
+<br>
 <img src="./Images/winter2summer_1.png" width="400px" />
 <img src="./Images/winter2summer_2.png" width="400px" />
-
+<br>
 由上面的結果可以看出來效果還不錯，已經有一點秋冬的感覺
 
 <br>
@@ -32,10 +32,13 @@
 
 <img src="./Images/summer2winter_final1.png" width="400px" />
 <img src="./Images/summer2winter_final2.png" width="400px" />
+<br>
 <img src="./Images/summer2winter_final3.png" width="400px" />
 <img src="./Images/summer2winter_final4.png" width="400px" />
+<br>
 <img src="./Images/winter2summer_final1.png" width="400px" />
 <img src="./Images/winter2summer_final2.png" width="400px" />
+<br>
 <img src="./Images/winter2summer_final3.png" width="400px" />
 
 
