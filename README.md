@@ -22,7 +22,6 @@
 <br>
 <img src="./Images/summer2winter_1.png" width="400px" />
 <img src="./Images/summer2winter_2.png" width="400px" />
-<br>
 
 #### 2. Winter to summer
 <br>
@@ -41,7 +40,6 @@
 <img src="./Images/summer2winter_final2.png" width="400px" />
 <img src="./Images/summer2winter_final3.png" width="400px" />
 <img src="./Images/summer2winter_final4.png" width="400px" />
-<br>
 
 #### 2. Winter to summer
 <br>
